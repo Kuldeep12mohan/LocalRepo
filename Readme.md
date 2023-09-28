@@ -1,2 +1,2 @@
-#this is a new repo
+# This is a new repo
 Author - Kuldeep kumar
